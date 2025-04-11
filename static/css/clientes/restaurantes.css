@@ -161,6 +161,7 @@ nav button:hover {
     z-index: 1; /* Asegura que el contenido esté sobre el overlay */
 }
 
+
 /* Responsividad */
 @media (max-width: 768px) {
     .restaurant-card {
